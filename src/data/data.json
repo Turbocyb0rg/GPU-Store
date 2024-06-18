@@ -1,0 +1,58 @@
+{
+  "logo": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7X1hW0MFCP1ipX2Iv8VEyRDea5ulmCdlm1w&usqp=CAU"],
+  "graphicsCards": {
+    "gaming": [
+      {
+        "name": "Nvidia GeForce RTX 4090",
+        "price": "Starting from $1,499",
+        "image": "https://images.nvidia.com/aem-dam/Solutions/geforce/ada/rtx-4090/geforce-rtx-4090-product-gallery-thumbnail-267-1.jpg"
+      },
+      {
+        "name": "Nvidia GeForce RTX 4080",
+        "price": "Starting from $699",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqoR0ImO6L4s5ZraeUBcy13pmXpeLBhODA5Q&usqp=CAU"
+      },
+      {
+        "name": "Nvidia GeForce RTX 4070",
+        "price": "Starting from $499",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRviLsUTk-X4XG3coWW6PgLteksxHash8Vytg&usqp=CAU"
+      }
+    ],
+    "workstation": [
+      {
+        "name": "Nvidia Quadro RTX 8000",
+        "price": "Starting from $6,999",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-IpgDnK6U_YfyHPtnaLEP7XTbTLw478PTEA&usqp=CAU"
+      },
+      {
+        "name": "Nvidia Quadro RTX 6000",
+        "price": "Starting from $4,999",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQy9P1Wo0_rFizUjbZb-xyb96GXvbkhzJApwZ_OkDYccufhapFUlVhUobCWKotnH__Fleo&usqp=CAU"
+      },
+      {
+        "name": "Nvidia Quadro RTX 5000",
+        "price": "Starting from $2,499",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj_L3ItRdnUatEgrcwYu_-obrdRGDLTdvpqw&usqp=CAU"
+      }
+    ]
+  },
+  "banner": {
+    "start": [
+      "https://i.makeagif.com/media/3-02-2017/7QWQIm.gif",
+      "https://64.media.tumblr.com/2ba60917fbd6dfc5cb21dd048d6f74c7/tumblr_pdvsssDRTn1w2ad4p_1280.gif",
+      "https://blogs.nvidia.com/wp-content/uploads/2021/09/gfn-spotlight-warframe-tw-li-2048x1024-1.jpg",
+      "https://i.pinimg.com/originals/97/80/c3/9780c38668b937586c0d4aeaed249279.gif",
+      "https://www.nvidia.com/content/dam/en-zz/Solutions/geforce/community/wallpapers/download-these-batman-arkham-knight-wallpapers/NV_TWIMTBP_BatmanAK_wallpapers_Arkham_Knight_1920x1080.jpg"
+  ]
+},
+"gpu": [
+    {
+      "url":"https://computechstore.in/product-category/graphics-card/amd-graphics-card/",
+      "image":"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTAzYm5iYmp1ZGYxejMzOGFkcWo4amZmbGJkcHl1eTc0NDQwY21iciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lXeeMnPH5TzHRyAPdJ/giphy.gif"
+    },
+    {
+      "url":"https://mdcomputers.in/nvidia.html",
+      "image":"https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxkNHh0eTl1M2dwZmRlYTduMzZtMWowNHd1cmptcTAxNDNsbGJmaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vP6C9QEVm5qiCCEAcn/giphy.gif"
+  }
+]
+}
