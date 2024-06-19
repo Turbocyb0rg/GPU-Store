@@ -1,5 +1,5 @@
 # GPU Store Website
-
+Bootstrapped with react
 This is a GPU store website built using React. It includes a navigation bar, slider, offers section, and more.
 
 ## Installation
